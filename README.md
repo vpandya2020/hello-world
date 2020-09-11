@@ -1,2 +1,2 @@
 # hello-world
-Just another reporsitory
+This is my first message to the mankind!
